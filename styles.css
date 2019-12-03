@@ -1,0 +1,43 @@
+body {
+  background-color: #eeedec;
+  letter-spacing: 0.2em;
+  font-size: 0.8em;
+}
+
+ .container {
+  max-width: 400px;
+  //border: solid 2px orange;
+}
+
+/* form {
+  border: 2px solid deeppink;
+} */
+
+/* .card {
+  border: 2px solid green;
+} */
+
+/* .time {
+  border: 2px solid red;
+} */
+
+.my-3 {
+  font-weight: 400;
+}
+
+.icon {
+  position: relative;
+  top: -50px;
+  border-radius: 50%;
+  width: 100px;
+  margin-bottom: -50px;
+  border: 2px solid gold;
+}
+
+/* .details {
+  border: 2px solid cornflowerblue;
+} */
+
+/* .display-4 {
+  border: 2px solid orchid;
+} */
